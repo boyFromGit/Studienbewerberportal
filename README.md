@@ -20,9 +20,9 @@
 
 Man kann sich zunächst nur als Admin mit den folgenden Daten anmelden:
 
-username: admin 
+username: `admin` 
 
-password: 123
+password: `123`
 
 Als Admin ist es möglich neue User zu erstellen und sich dann auch mit diesen anzumelden.
 
