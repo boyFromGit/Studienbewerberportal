@@ -1,0 +1,17 @@
+# mongodb:
+
+start/stop mongodb server:
+sudo systemctl start/stop mongod
+
+# node
+
+install module:
+npm install 'moduleName'
+
+list installed modules:
+npm list
+
+start node server:
+nodemon ./httpsServer.js
+
+
