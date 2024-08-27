@@ -5,14 +5,14 @@
 2. Abhängigkeiten installieren (falls noch nicht geschehen)
    - `npm install`
 3. Backend Server starten
-  - `npm start`
+   - `npm start`
 
 ### Frontend:
 1. In das frontend directory gehen
 2. Abhängigkeiten installieren (falls noch nicht geschehen)
-  - `npm install`
+   - `npm install`
 3. Frontend Server starten
-  - `npm start`
+   - `npm start`
 
 - falls `npm start` nicht funktioniert: `npm start ./httpsServer.js`
 
