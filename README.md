@@ -1,5 +1,3 @@
-# Um die Webseite auszutesten:
-
 ## Set Up
 
 ### Backend:
